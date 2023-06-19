@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 trililililiyyyy
 hopa hopa
+=======
+זה השינוי של שבי
+>>>>>>> 05f81fbe8954f7988787845424ec3e11b4b99d8a
